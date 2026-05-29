@@ -2,8 +2,6 @@
 
 Welcome to My LUFFY Repository! This is a Python project with the following structure:
 
-## Project Structure
-
 ```
 src/
   utils.py       - Utility functions with TODOs
@@ -16,12 +14,20 @@ tests/
 
 ## TODO List
 
+### Completed Tasks
+These items have been completed based on the current implementation in Python files:
+
+- [x] Add logging to all functions (src/utils.py)
+- [x] Remove this dead code (src/utils.py)
+
 ### Pending Tasks
-- [ ] Implement password hashing in src/utils.py
-- [ ] Create User model in src/models.py
-- [ ] Add database migration support in src/models.py
-- [ ] Write tests for hash_password in tests/test_utils.py
-- [ ] Add integration tests in tests/test_utils.py
+Items still requiring implementation:
+
+- [ ] Create User model (src/models.py)
+- [ ] Add database migration support (src/models.py)
+- [ ] Implement password hashing (src/utils.py)
+- [ ] Write tests for hash_password (tests/test_utils.py)
+- [ ] Add integration tests (tests/test_utils.py)
 
 ---
 

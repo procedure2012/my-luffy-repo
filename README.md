@@ -17,7 +17,6 @@ tests/
 ### Completed Tasks
 These items have been completed based on the current implementation in Python files:
 
-- [x] Add logging to all functions (src/utils.py)
 - [x] Remove this dead code (src/utils.py)
 
 ### Pending Tasks
@@ -26,6 +25,7 @@ Items still requiring implementation:
 - [ ] Create User model (src/models.py)
 - [ ] Add database migration support (src/models.py)
 - [ ] Implement password hashing (src/utils.py)
+- [ ] Add logging to all functions (src/utils.py)
 - [ ] Write tests for hash_password (tests/test_utils.py)
 - [ ] Add integration tests (tests/test_utils.py)
 

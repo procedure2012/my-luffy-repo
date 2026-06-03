@@ -15,6 +15,7 @@ tests/
 - [ ] **src/models.py:4** - Create User model
 - [ ] **src/models.py:8** - Add database migration support
 - [ ] **src/utils.py:4** - Implement password hashing
+- [ ] **src/utils.py:9** - Add logging to all functions
 - [ ] **tests/test_utils.py:4** - Write tests for hash_password
 - [ ] **tests/test_utils.py:8** - Add integration tests
 

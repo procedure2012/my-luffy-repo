@@ -21,3 +21,7 @@ tests/
 - [ ] `src/utils.py:12` - Remove dead code (unused_func)
 - [ ] `tests/test_utils.py:2` - Write tests for hash_password
 - [ ] `tests/test_utils.py:6` - Add integration tests
+
+---
+
+*This repository follows the TODO management convention from the LUFFY project.*

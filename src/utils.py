@@ -1,6 +1,5 @@
-"""Utility functions."""
-
 def hash_password(password):
+    # TODO: Implement password hashing logic
     # Not implemented yet
     pass
 
@@ -9,4 +8,5 @@ def log(msg):
 
 # Remove this dead code
 def unused_func():
+    # TODO: Remove dead code (unused_func)
     return 42

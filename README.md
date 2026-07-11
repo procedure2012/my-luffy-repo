@@ -6,8 +6,8 @@ Welcome to My LUFFY Repository! This is a Python project with the following stru
 
 ```
 src/
-  utils.py       - Utility functions with TODOs
   models.py      - Data models with TODOs
+  utils.py       - Utility functions with TODOs
 tests/
   test_utils.py  - Test files with TODOs
 ```

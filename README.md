@@ -21,3 +21,17 @@ tests/
 - [ ] `src/utils.py:10` - Remove dead code (unused_func)
 - [ ] `tests/test_utils.py:2` - Write tests for hash_password
 - [ ] `tests/test_utils.py:6` - Add integration tests
+
+## Repository Structure
+
+### Directories
+- **src/**
+- **tests/** 
+
+### Files
+- README.md (0.7 KB)
+
+## Links
+
+- **GitHub:** https://github.com/procedure2012/my-luffy-repo
+- **Clone:** `git clone https://github.com/procedure2012/my-luffy-repo.git`

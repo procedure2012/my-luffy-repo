@@ -12,7 +12,7 @@ tests/
   test_utils.py  - Test files with TODOs
 ```
 
-## 📝 Complete TODO List
+### 📝 Complete TODO List
 
 - [ ] `src/models.py:2` - Implement User model with proper fields and methods
 - [ ] `src/models.py:5` - Implement database migration logic

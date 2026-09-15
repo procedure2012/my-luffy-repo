@@ -1,0 +1,8 @@
+file_path,line_number,tag,content
+src/models.py,2,TODO,Implement User model with proper fields and methods
+src/models.py,5,TODO,Implement database migration logic
+src/utils.py,2,TODO,Implement password hashing logic
+src/utils.py,7,TODO,Add logging to all functions
+src/utils.py,12,TODO,Remove dead code (unused_func)
+tests/test_utils.py,2,TODO,Write tests for hash_password
+tests/test_utils.py,6,TODO,Add integration tests

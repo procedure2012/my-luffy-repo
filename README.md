@@ -2,8 +2,6 @@
 
 Welcome to My LUFFY Repository! This is a Python project with the following structure:
 
-## Project Structure
-
 ```
 src/
   utils.py       - Utility functions with TODOs
@@ -14,5 +12,5 @@ tests/
 
 ### 📝 Complete TODO List
 
-- [ ] **src/utils.py:2** - Implement password hashing logic
-- [ ] **src/utils.py:7** - Add logging to all functions
+- [ ] **src/utils.py:3** - Implement password hashing logic
+- [ ] **src/utils.py:8** - Add logging to all functions

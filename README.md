@@ -11,7 +11,6 @@ src/
 tests/
   test_utils.py  - Test files with TODOs
 ```
-
 ### 📝 Complete TODO List
 
 - [ ] `src/models.py:2` - Implement User model with proper fields and methods
@@ -21,3 +20,4 @@ tests/
 - [ ] `src/utils.py:12` - Remove dead code (unused_func)
 - [ ] `tests/test_utils.py:2` - Write tests for hash_password
 - [ ] `tests/test_utils.py:6` - Add integration tests
+
